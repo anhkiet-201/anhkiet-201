@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <h1 style="color: brown;">Hello</h1>
-</body>
-</html>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhkiet-201)](https://github.com/anuraghazra/github-readme-stats)
