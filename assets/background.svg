@@ -5,7 +5,7 @@
             <head>
             </head>
             <body>
-                <div>
+                <main>
                     <style>
                         :root {
                     --beige: #f3c687;
@@ -711,7 +711,7 @@
                         <div id="neptune"></div>
                         <div id="pluto"></div>
                     </div>
-                </div>
+                </main>
             </body>
             </html>
 
