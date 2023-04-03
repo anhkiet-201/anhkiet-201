@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="assets/background.svg" width="1200" alt="trungquandev-official" />
+  <img src="assets/background.svg" alt="trungquandev-official" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhkiet-201&show_icons=true)
