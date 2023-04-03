@@ -694,8 +694,11 @@
 
                 .text{
                     color:white;
-                    font-size:2rem;
+                    font-size: min(5vw, 2rem);;
                     font-weight:bold;
+                    position:absolute;
+                    width:100%;
+                    top:10vh;
                 }
 
                 .typed {
